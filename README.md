@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard
 
-# Power BI Sales Dashboard
+## Power BI Sales Dashboard
 
 ## Tools Used
 - Power BI
